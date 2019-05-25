@@ -240,6 +240,7 @@ nav > ul {
   margin: 10px;
   border: 1px solid #000;
   border-radius: 3px;
+  background: #9a9abd96;
 }
 
 .product > .level {
